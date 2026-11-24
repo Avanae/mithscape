@@ -1,9 +1,5 @@
 <a id="readme-top"></a>
 
-
-
-<!-- PROJECT SHIELDS -->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -13,7 +9,6 @@
 
 
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/mithscape/mithscape">
@@ -37,8 +32,6 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -64,9 +57,6 @@
   </ol>
 </details>
 
-
-
-!-- ABOUT THE PROJECT -->
 ## About The Project
 [![MithScape Screen Shot][product-screenshot]](http://mithscape.com)
 Most private server projects either strip out newer client features or get stuck on decade-old revisions. **MithScape** is built to run modern OSRS revisions (pinned to 235 and 242) both locally and on a dedicated server. It gives you an authentic native client experience, custom skill additions like Sailing, and autonomous bots so the world doesn't feel like a ghost town when you're playing solo.
@@ -91,8 +81,6 @@ The server runs on Kotlin and modern Java with asynchronous netcode, backed by a
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 Getting a local world running on your machine only takes a few minutes. Follow these steps to get everything set up.
 ### Prerequisites
@@ -197,7 +185,7 @@ Don't forget to give the project a star! Thanks again!
 ## License
 Distributed under the ISC and MIT Licenses. See `LICENSE.md` and `client/LICENSE` for more information.
 > [!NOTE]
-> RuneScape and Old School RuneScape are registered trademarks of Jagex Limited. This project is an independent, noncommercial research and educational endeavor, and is in no way affiliated with or endorsed by Jagex Limited.
+> RuneScape and Old School RuneScape are registered trademarks of Jagex Limited. MithScape is in no way, shape or form affiliated with Jagex.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
 ## Contact
