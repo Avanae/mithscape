@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mithscape/mithscape">
-    <img src="http://mithscape.com/assets/mithscape-badge-v1.png" alt="Logo" width="500" height="80">
+    <img src="http://mithscape.com/assets/mithscape-badge-v1.png" alt="Logo" width="500" height="180">
   </a>
 
   <h1 align="center">MithScape</h1>
